@@ -20,6 +20,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,javascript,react,html,css,mysql,git,linux,vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,javascript,react,html,css,mysql,git,vscode" height="45"/>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavChamoli06&show_icons=true&locale=en&layout=compact" alt="jaiyadav88" /></p>

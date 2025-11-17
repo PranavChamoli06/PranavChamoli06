@@ -23,23 +23,3 @@
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,javascript,react,html,css,mysql,git,linux,vscode" height="45"/>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranavChamoli06&show_icons=true&locale=en&layout=compact" alt="jaiyadav88" /></p>
-
-## 🚀 Featured Projects
-
-<div align="left">
-
-<a href="https://github.com/PranavChamoli06/Hotel-Reservation-and-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavChamoli06&repo=Hotel-Reservation-and-Management-System&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/PranavChamoli06/QUIZ-APPLICATION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavChamoli06&repo=QUIZ-APPLICATION&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/PranavChamoli06/Real-Time-Face-Recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavChamoli06&repo=Real-Time-Face-Recognition&theme=tokyonight" />
-</a>
-
-</div>
-
----

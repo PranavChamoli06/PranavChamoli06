@@ -1,7 +1,2 @@
-# Hi 👋, I'm Pranav Chamoli
-
-### Transforming Ideas into Code
-
-🌱 I’m a Software Developer & CSE Student from India  
-💬 Ask me about Java, JavaFX, Swing, SQL & Projects!  
-📫 Reach me at: pranavchamoli6@gmail.com
+<!-- BANNER_PLACEHOLDER -->
+<!-- MAIN_PROFILE_CONTENT_WILL_BE_INSERTED_HERE -->

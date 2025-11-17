@@ -26,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/PranavChamoli06/Hotel-Reservation-and-Management-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavChamoli06&repo=Hotel-Reservation-and-Management-System&theme=tokyonight" />

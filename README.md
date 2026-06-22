@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pranavchamoli6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yes1K5iigNUEhOVTlfYqWjG4b7tK8VyG/view?usp=drive_link](https://drive.google.com/file/d/1Yes1K5iigNUEhOVTlfYqWjG4b7tK8VyG/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p_adm1bZvzKWDit4pydkgh0nwkPIA8EB/view?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>

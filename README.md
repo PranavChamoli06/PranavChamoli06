@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Computer Networks, Spring Boot frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PranavChamoli06](https://github.com/PranavChamoli06)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/PranavChamoli06)
 
 - 📫 How to reach me **pranavchamoli6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p_adm1bZvzKWDit4pydkgh0nwkPIA8EB/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gotBAQt4ApynKE_bqfxXn0Vi87dsnld0/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>

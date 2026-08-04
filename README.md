@@ -18,7 +18,7 @@ Full Stack Developer | Java • Spring Boot • React • Android • Python
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student
+- 🎓 B.Tech Computer Science Graduate
 - 💻 Passionate about Full Stack Development
 - 📱 Exploring Android Development with Jetpack Compose
 - 🌱 Currently learning:
@@ -41,10 +41,6 @@ Full Stack Developer | Java • Spring Boot • React • Android • Python
 <p align="left">
 <a href="https://www.linkedin.com/in/pranav-chamoli-08a335269/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://dev.to/pranav_chamoli_02bab370ba" target="_blank">
-<img src="https://skillicons.dev/icons?i=devto" height="45"/>
 </a>
 
 <a href="mailto:pranavchamoli6@gmail.com">

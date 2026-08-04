@@ -119,7 +119,7 @@ A responsive developer portfolio showcasing projects, skills, and experience usi
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PranavChamoli06&layout=compact&langs_count=20&theme=shadow_green" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=PranavChamoli06&layout=compact&langs_count=20&theme=dark" />
 </p>
 
 ---

@@ -126,16 +126,6 @@ A responsive developer portfolio showcasing projects, skills, and experience usi
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PranavChamoli06&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # ⚡ Fun Fact
 
 > I enjoy building complete software systems—from backend APIs to modern web applications and Android apps—while continuously exploring new technologies and best practices.

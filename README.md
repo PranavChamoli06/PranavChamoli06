@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Chamoli</h1>
 
-<h3 align="center">
-Full Stack Developer | Java • Spring Boot • React • Android • Python
-</h3>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Android+Developer;Always+Learning+New+Technologies" />
 </p>

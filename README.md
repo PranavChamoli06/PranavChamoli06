@@ -116,16 +116,6 @@ A responsive developer portfolio showcasing projects, skills, and experience usi
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=PranavChamoli06&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # ⚡ Fun Fact
 
 > I enjoy building complete software systems—from backend APIs to modern web applications and Android apps—while continuously exploring new technologies and best practices.

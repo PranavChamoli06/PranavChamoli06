@@ -75,7 +75,7 @@
 ## Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ## Tools
@@ -83,28 +83,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,pycharm,androidstudio,maven" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 📱 Phone Deck
-Turn your Android phone into a customizable productivity controller for your PC using FastAPI, WebSockets, PySide6, and Jetpack Compose.
-
----
-
-### 🏨 Hotel Reservation Management System (HRMS)
-A full-stack hotel reservation management system built with Spring Boot, React, MySQL, JWT Authentication, and Role-Based Access Control.
-
----
-
-### 💰 Expense Tracker
-A modern full-stack expense tracking application built using React, Express.js, and JSON-based persistence.
-
----
-
-### 🌐 Portfolio Website
-A responsive developer portfolio showcasing projects, skills, and experience using React and Tailwind CSS.
 
 ---
 

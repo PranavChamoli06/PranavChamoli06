@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Chamoli</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Android+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -22,13 +22,8 @@
   - Computer Networks
   - Android Development
   - System Design
-- 🔭 Currently building **Phone Deck**
-- 👨‍💻 Check out all my projects:
-  - https://github.com/PranavChamoli06
 - 📫 Reach me at:
   - **pranavchamoli6@gmail.com**
-- 📄 Resume:
-  - https://drive.google.com/file/d/1gotBAQt4ApynKE_bqfxXn0Vi87dsnld0/view?usp=sharing
 
 ---
 
